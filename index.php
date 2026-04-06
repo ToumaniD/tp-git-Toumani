@@ -6,4 +6,4 @@ $a = 10;
 $b = 5;
 
 echo "Résultat de l'addition : " . ($a + $b);
-?>
+?>// Update sur main
